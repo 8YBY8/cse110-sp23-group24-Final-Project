@@ -14,8 +14,7 @@ FUTURE NOW! is an app created for entertainment purposes, allowing users a quick
 - Then run `npm run dev`. 
 
 ### Documentation
-https://cse110-sp23-group24.github.io/cse110-sp23-group24-Final-Project/specs/docs
-
+https://github.com/8YBY8/cse110-sp23-group24-Final-Project/tree/main/specs/docs
 
 ### Possible Features
 
